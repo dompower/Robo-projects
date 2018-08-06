@@ -16,7 +16,7 @@ sudo pip3 install SpeechRecognition
 
 sudo apt-get install flac
 
-pip3 inatall pyaudio
+sudo pip3 install pyaudio
 
 
 
